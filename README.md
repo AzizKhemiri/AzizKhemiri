@@ -1,4 +1,4 @@
-<h2 align="center"> Hi, I'm Aziz Khemiri 👋 <br/> </h2> 
+<h2 align="center"> Hi, I'm Aziz Khemiri 😉 <br/> </h2> 
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
