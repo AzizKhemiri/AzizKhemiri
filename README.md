@@ -1,7 +1,8 @@
 <h2 align="center"> Hi, I'm Aziz Khemiri 👋 <br/> </h2> 
 
 <p align="center">
-  <img width="150" src="https://yt3.googleusercontent.com/2ViA1n56LMMxsf2ZiF1gooIw_gG8jd4Q10nNp_Y7i8FWoAaUzf_cVaOL6XIt6cQHHW09WBfC=s900-c-k-c0x00ffffff-no-rj" alt="Aziz Khemiri">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 </p>
 
 <p align="center">
