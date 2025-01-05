@@ -7,6 +7,10 @@
 
 <p align="center">
   <samp>
-    Hi, My name is Aziz Khemiri. I am a motivated and versatile developer with a passion for learning and a commitment to delivering high-quality results. I thrive on taking on new challenges and continuously expanding my skill set, from front-end design to back-end development. With a positive attitude, a growth mindset, and a dedication to efficient, scalable solutions, I am ready to make a meaningful impact and contribute to achieving great things.
+    👋 Hi there! My name is <b>Aziz Khemiri</b>. I am a passionate and versatile developer 🚀 with a strong drive for continuous learning 📚 and a commitment to delivering high-quality results ✅.  
+    <br/><br/>
+    💡 I love tackling challenges head-on, from designing intuitive front-end interfaces 🎨 to developing robust and scalable back-end solutions ⚙️.  
+    <br/><br/>
+    🌟 With a positive attitude 🤝, a growth mindset 🌱, and a knack for innovation 💻, I am always looking for opportunities to make a meaningful impact and contribute to exciting projects. Let's achieve great things together! 🌍✨
   </samp>
 </p>
