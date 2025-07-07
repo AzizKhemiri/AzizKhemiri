@@ -7,12 +7,13 @@
 </p>
 </p>
 
-<p align="center">
-  <samp>
-    👋 Hi there! My name is <b>Aziz Khemiri</b>. I am a passionate and versatile developer 🚀 with a strong drive for continuous learning 📚 and a commitment to delivering high-quality results ✅.  
-    <br/><br/>
-    💡 I love tackling challenges head-on, from designing intuitive front-end interfaces 🎨 to developing robust and scalable back-end solutions ⚙️.  
-    <br/><br/>
-    🌟 With a positive attitude 🤝, a growth mindset 🌱, and a knack for innovation 💻, I am always looking for opportunities to make a meaningful impact and contribute to exciting projects. Let's achieve great things together! 🌍✨
-  </samp>
-</p>
+
+## Connect with me  
+<div align="center">
+  <a href="https://github.com/AzizKhemiri" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/azizkhemiri" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+</div>  
