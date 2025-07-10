@@ -1,5 +1,3 @@
-![Profile views counter](https://komarev.com/ghpvc/?username=AzizKhemiri&&style=flat-square) 
-  <br/>  
 <h2 align="center"> Hi, I'm Aziz Khemiri 😉 <br/> </h2> 
 
 <p align="center">
