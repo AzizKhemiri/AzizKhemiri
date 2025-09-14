@@ -7,7 +7,7 @@
 🤝 Open to collaborations — if you have an idea or project in mind, feel free to reach out so we can build something great together  
 
 <p align="center">
-   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200" />
+   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200" target="-blanck"/>
 </p>
 
 ---
