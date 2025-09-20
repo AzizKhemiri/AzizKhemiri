@@ -16,12 +16,3 @@
 <p align="center">
    <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200" target="_blanck"/>
 </p>
-
----
-
-## 🌐 Connect with me  
-<p align="center">
-  <a href="https://linkedin.com/in/azizkhemiri" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
