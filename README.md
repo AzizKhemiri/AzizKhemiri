@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Aziz Khemiri 😉 </h2>  
 
-👨🏻‍💻 Software Engineering student with a **Bachelor’s degree in Computer Science**  
+👨🏻‍💻 **Software Engineering student**
 🌍 Passionate about creating meaningful and impactful solutions that make life easier and connect people to the information they need  
 ⚙️ Focused on **DevOps practices**: building automated, reliable, and scalable solutions to streamline workflows and bridge the gap between development and operations  
 💡 Positive attitude, growth mindset, and committed to creating real value in every project  
