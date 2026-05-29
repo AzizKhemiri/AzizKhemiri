@@ -1,5 +1,6 @@
 <h2 align="center">Hi, I'm Aziz Khemiri 👋</h2>
 
+```javascript
 const aziz = {
   about: {
     name: "Aziz Khemiri",
@@ -15,6 +16,8 @@ const aziz = {
   ],
 
   links: {
-    linkedin: "Aziz Khemiri"
+    linkedin: "Aziz Khemiri",
+    github: "AzizKhemiri",
   },
 };
+```
