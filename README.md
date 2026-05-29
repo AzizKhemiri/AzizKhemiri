@@ -17,6 +17,5 @@ const aziz = {
 
   links: {
     linkedin: "Aziz Khemiri",
-    github: "AzizKhemiri",
   },
 };
