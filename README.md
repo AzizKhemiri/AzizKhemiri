@@ -20,4 +20,3 @@ const aziz = {
     github: "AzizKhemiri",
   },
 };
-```
