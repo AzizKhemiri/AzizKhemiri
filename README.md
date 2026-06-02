@@ -12,10 +12,11 @@ const aziz = {
     "Cloud Infrastructure",
     "CI/CD",
     "Docker & Kubernetes",
-    "LLMOps",
+    "System Design",
   ],
 
   links: {
     linkedin: "Aziz Khemiri",
+    Email : "Aziz.Khemiri@isitc.u-sousse.tn"
   },
 };
