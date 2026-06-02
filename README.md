@@ -17,6 +17,6 @@ const engineer_aziz = {
 
   links: {
     linkedin: "Aziz Khemiri",
-    Email : "Aziz.Khemiri@isitc.u-sousse.tn"
+    email : "Aziz.Khemiri@isitc.u-sousse.tn"
   },
 };
